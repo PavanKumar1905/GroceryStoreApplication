@@ -7,3 +7,4 @@ In this python project, we will build a grocery store management applicaton. It 
   2. Backend: Python and Flask
   3. Database: mysql
 
+![image alt](https://github.com/PavanKumar1905/GroceryStoreApplication/blob/c5772443d8a25351f6e72343ce93b6aecbdc0a72/homepage.jpg)
